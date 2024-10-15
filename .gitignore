@@ -1,0 +1,13 @@
+**/__pycache__/ 
+**/prompt_visualisation/
+**/test_small_file_ver2/
+**/test_small_file/ 
+**/fid_computation/
+**/checkpoints/
+**/results/
+
+
+*.e*
+*.o*
+*.pyc
+*.zip
