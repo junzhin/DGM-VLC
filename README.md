@@ -1,6 +1,6 @@
 # Deep Generative Models Unveil Patterns in Medical Images Through Vision- ”Language” Conditioning
 
-This is the official implementation of our proposed Method
+This is the official implementation of [the workshop paper](https://arxiv.org/abs/2410.13823)
 
 
 ## Abstract 
