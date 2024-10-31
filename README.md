@@ -224,8 +224,7 @@ MedCLIP==0.0.3
 monai==1.3.0
 nibabel==5.2.1
 numpy==1.26.4
-pandas==2.2.1
-Pillow==10.0.1
+pandas==2.2.1 
 Pillow==10.2.0
 pytorch_msssim==1.0.0
 scikit_learn==1.4.0
