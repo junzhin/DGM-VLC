@@ -1,7 +1,8 @@
  
 # Deep Generative Models Unveil Patterns in Medical Images Through Vision-Language Conditioning
 
-This is the official implementation of [the workshop paper](https://arxiv.org/abs/2410.13823) **(accepted by AIM-FM Workshop of NeurIPS2024🔥🔥🔥)**.
+This is the implementation of **[Deep Generative Models Unveil Patterns in Medical Images Through Vision-Language Conditioning](https://arxiv.org/abs/2410.13823)** **(accepted by AIM-FM Workshop of NeurIPS2024🔥🔥🔥)**, which explores how deep generative models can reveal and demonstrate patterns in medical images through vision-language conditioning.
+ 
 
 ## 🌟 Abstract
 
@@ -245,15 +246,6 @@ pip install -r requirements.txt
 ```
 
 
-## Citation
-
-This repository is based on:
-
-pix2pixHD: High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs ([code](https://github.com/NVIDIA/pix2pixHD) and 
-[paper](https://arxiv.org/abs/1711.11585));
-
- 
-
 ## 🔗 Citation
 
 If you find our work interesting and useful, please consider citing:
@@ -271,4 +263,12 @@ If you find our work interesting and useful, please consider citing:
 
 This project is licensed under the [MIT License](LICENSE).
 
- 
+
+## Credits
+
+This repository is based on:
+
+pix2pixHD: High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs ([code](https://github.com/NVIDIA/pix2pixHD) and 
+[paper](https://arxiv.org/abs/1711.11585));
+
+  
